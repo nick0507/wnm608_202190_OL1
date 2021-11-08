@@ -11,4 +11,31 @@
 
 
 	}
+    {
+        "name":"zhangfan zhou",
+        "type":"Student",
+        "email":"zhangfan@gmail.com"
+        "classes":[608]
+
+
+
+    }
+    {
+        "name":"andy",
+        "type":"Student",
+        "email":"andy@gmail.com"
+        "classes":[608]
+
+
+
+    }
+    {
+        "name":"yubing zhang",
+        "type":"Student",
+        "email":"yubingzhang@gmail.com"
+        "classes":[608]
+
+
+
+    }
 ]
